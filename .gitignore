@@ -4,3 +4,4 @@ env_residenza/**
 .env
 docker-compose.override.yaml
 backend/app/myenv/**
+git_ssh*
