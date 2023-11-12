@@ -1,0 +1,875 @@
+[
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 12200,
+            "date_from": "2020-07-20",
+            "date_until": "2021-07-19",
+            "bed_id" : 1
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 13200,
+            "date_from": "2021-07-20",
+            "date_until": null,
+            "bed_id" : 1
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 9200,
+            "date_from": "2020-06-20",
+            "date_until": "2020-11-13",
+            "bed_id" : 2
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 10000,
+            "date_from": "2020-11-14",
+            "date_until": null,
+            "bed_id" : 2
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 8400,
+            "date_from": "2020-01-20",
+            "date_until": "2020-06-20",
+            "bed_id" : 3
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 9700,
+            "date_from": "2020-06-21",
+            "date_until": "2021-01-21",
+            "bed_id" : 3
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11000,
+            "date_from": "2021-01-21",
+            "date_until": null,
+            "bed_id" : 3
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11000,
+            "date_from": "2021-01-21",
+            "date_until": null,
+            "bed_id" : 4
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 10200,
+            "date_from": "2020-07-20",
+            "date_until": "2021-01-20",
+            "bed_id" : 5
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11900,
+            "date_from": "2021-01-21",
+            "date_until": "2021-07-21",
+            "bed_id" : 5
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 14200,
+            "date_from": "2021-07-22",
+            "date_until": null,
+            "bed_id" : 5
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11500,
+            "date_from": "2020-01-20",
+            "date_until": "2021-07-03",
+            "bed_id" : 6
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 12800,
+            "date_from": "2021-07-04",
+            "date_until": null,
+            "bed_id" : 6
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 8500,
+            "date_from": "2020-01-20",
+            "date_until": "2020-08-20",
+            "bed_id" : 7
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 9700,
+            "date_from": "2020-08-21",
+            "date_until": "2021-08-13",
+            "bed_id" : 7
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 10500,
+            "date_from": "2021-08-14",
+            "date_until": null,
+            "bed_id" : 7
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11450,
+            "date_from": "2020-01-20",
+            "date_until": "2021-02-20",
+            "bed_id" : 8
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 12750,
+            "date_from": "2021-02-21",
+            "date_until": null,
+            "bed_id" : 8
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 7250,
+            "date_from": "2020-01-20",
+            "date_until": "2021-01-20",
+            "bed_id" : 9
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 8250,
+            "date_from": "2021-01-21",
+            "date_until": null,
+            "bed_id" : 9
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 9900,
+            "date_from": "2020-02-20",
+            "date_until": "2021-06-20",
+            "bed_id" : 10
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11200,
+            "date_from": "2021-06-21",
+            "date_until": null,
+            "bed_id" : 10
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 13000,
+            "date_from": "2020-03-20",
+            "date_until": null,
+            "bed_id" : 11
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 14600,
+            "date_from": "2020-03-20",
+            "date_until":  "2021-05-20",
+            "bed_id" : 12
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 15600,
+            "date_from": "2021-05-21",
+            "date_until": null,
+            "bed_id" : 12
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11600,
+            "date_from": "2020-03-20",
+            "date_until":"2021-02-20",
+            "bed_id" : 13
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 13100,
+            "date_from": "2021-02-21",
+            "date_until": null,
+            "bed_id" : 13
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 9800,
+            "date_from": "2020-03-20",
+            "date_until": "2021-04-20",
+            "bed_id" : 14
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 10600,
+            "date_from": "2021-04-21",
+            "date_until": null,
+            "bed_id" : 14
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11600,
+            "date_from": "2020-03-20",
+            "date_until":"2021-02-20",
+            "bed_id" : 15
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 13100,
+            "date_from": "2021-02-21",
+            "date_until": null,
+            "bed_id" : 15
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 9800,
+            "date_from": "2020-03-20",
+            "date_until": "2021-04-20",
+            "bed_id" : 16
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 10600,
+            "date_from": "2021-04-21",
+            "date_until": null,
+            "bed_id" : 16
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 16600,
+            "date_from": "2020-03-20",
+            "date_until": "2021-01-20",
+            "bed_id" : 17
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 17200,
+            "date_from": "2021-01-21",
+            "date_until": null,
+            "bed_id" : 17
+        }
+    },
+
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 12600,
+            "date_from": "2020-01-20",
+            "date_until": "2020-12-20",
+            "bed_id" : 18
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 13800,
+            "date_from": "2021-12-21",
+            "date_until": null,
+            "bed_id" : 18
+        }
+    },
+    
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 12600,
+            "date_from": "2020-01-20",
+            "date_until": "2020-12-20",
+            "bed_id" : 19
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 13800,
+            "date_from": "2021-12-21",
+            "date_until": null,
+            "bed_id" : 19
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 16200,
+            "date_from": "2020-04-20",
+            "date_until":  "2021-02-20",
+            "bed_id" : 20
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 17600,
+            "date_from": "2021-02-21",
+            "date_until": null,
+            "bed_id" : 20
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11600,
+            "date_from": "2020-01-07",
+            "date_until": "2021-01-02",
+            "bed_id" : 21
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 12600,
+            "date_from": "2021-01-03",
+            "date_until": null,
+            "bed_id" : 21
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11600,
+            "date_from": "2020-01-07",
+            "date_until": "2021-01-02",
+            "bed_id" : 22
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 12600,
+            "date_from": "2021-01-03",
+            "date_until": null,
+            "bed_id" : 22
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11600,
+            "date_from": "2020-01-07",
+            "date_until": "2021-01-02",
+            "bed_id" : 23
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 12600,
+            "date_from": "2021-01-03",
+            "date_until": null,
+            "bed_id" : 23
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 8600,
+            "date_from": "2020-03-20",
+            "date_until":"2020-11-20",
+            "bed_id" : 24
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 9900,
+            "date_from": "2020-11-21",
+            "date_until": null,
+            "bed_id" : 24
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 8300,
+            "date_from": "2020-03-20",
+            "date_until":"2020-11-20",
+            "bed_id" : 25
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 9400,
+            "date_from": "2020-11-21",
+            "date_until": null,
+            "bed_id" : 25
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 10600,
+            "date_from": "2020-02-20",
+            "date_until": "2020-12-23",
+            "bed_id" : 26
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11700,
+            "date_from": "2020-12-24",
+            "date_until": null,
+            "bed_id" : 26
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 10900,
+            "date_from": "2020-01-20",
+            "date_until": null,
+            "bed_id" : 27
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11300,
+            "date_from": "2020-01-20",
+            "date_until": null,
+            "bed_id" : 28
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 10600,
+            "date_from": "2020-02-20",
+            "date_until": "2021-02-26",
+            "bed_id" : 29
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11400,
+            "date_from": "2021-02-27",
+            "date_until": null,
+            "bed_id" : 29
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11000,
+            "date_from": "2020-02-20",
+            "date_until": "2021-02-26",
+            "bed_id" : 30
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11700,
+            "date_from": "2021-02-27",
+            "date_until": null,
+            "bed_id" : 30
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 10600,
+            "date_from": "2020-02-20",
+            "date_until": "2021-02-26",
+            "bed_id" : 31
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11400,
+            "date_from": "2021-02-27",
+            "date_until": null,
+            "bed_id" : 31
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11000,
+            "date_from": "2020-02-20",
+            "date_until": "2021-02-26",
+            "bed_id" : 32
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11700,
+            "date_from": "2021-02-27",
+            "date_until": null,
+            "bed_id" : 32
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 10600,
+            "date_from": "2020-02-20",
+            "date_until": "2021-02-26",
+            "bed_id" : 33
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11400,
+            "date_from": "2021-02-27",
+            "date_until": null,
+            "bed_id" : 33
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11000,
+            "date_from": "2020-02-20",
+            "date_until": "2021-02-26",
+            "bed_id" : 34
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11700,
+            "date_from": "2021-02-27",
+            "date_until": null,
+            "bed_id" : 34
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 10600,
+            "date_from": "2020-02-20",
+            "date_until": "2021-02-26",
+            "bed_id" : 35
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11400,
+            "date_from": "2021-02-27",
+            "date_until": null,
+            "bed_id" : 35
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11000,
+            "date_from": "2020-02-20",
+            "date_until": "2021-02-26",
+            "bed_id" : 36
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        
+        "fields": {
+            "price": 11700,
+            "date_from": "2021-02-27",
+            "date_until": null,
+            "bed_id" : 36
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 10600,
+            "date_from": "2020-02-20",
+            "date_until": "2021-02-26",
+            "bed_id" : 37
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11400,
+            "date_from": "2021-02-27",
+            "date_until": null,
+            "bed_id" : 37
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11000,
+            "date_from": "2020-02-20",
+            "date_until": "2021-02-26",
+            "bed_id" : 38
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11700,
+            "date_from": "2021-02-27",
+            "date_until": null,
+            "bed_id" : 38
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 13600,
+            "date_from": "2020-03-20",
+            "date_until": null,
+            "bed_id" : 39
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 13600,
+            "date_from": "2020-03-20",
+            "date_until": null,
+            "bed_id" : 40
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 13600,
+            "date_from": "2020-03-20",
+            "date_until": null,
+            "bed_id" : 41
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11600,
+            "date_from": "2020-03-20",
+            "date_until": null,
+            "bed_id" : 42
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 11900,
+            "date_from": "2020-03-20",
+            "date_until": null,
+            "bed_id" : 43
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 12600,
+            "date_from": "2020-01-20",
+            "date_until": "2021-02-20",
+            "bed_id" : 44
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 13800,
+            "date_from": "2021-02-21",
+            "date_until": null,
+            "bed_id" : 44
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 12600,
+            "date_from": "2020-01-20",
+            "date_until": "2021-02-20",
+            "bed_id" : 45
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 13800,
+            "date_from": "2021-02-21",
+            "date_until": null,
+            "bed_id" : 45
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 7600,
+            "date_from": "2020-03-12",
+            "date_until": "2021-03-03",
+            "bed_id" : 46
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 8900,
+            "date_from": "2021-03-04",
+            "date_until": null,
+            "bed_id" : 46
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 7900,
+            "date_from": "2020-03-12",
+            "date_until": "2021-03-03",
+            "bed_id" : 47
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 9200,
+            "date_from": "2021-03-04",
+            "date_until": null,
+            "bed_id" : 47
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 13600,
+            "date_from": "2020-02-20",
+            "date_until": "2020-11-20",
+            "bed_id" : 48
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 14800,
+            "date_from": "2020-11-21",
+            "date_until": null,
+            "bed_id" : 48
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 17600,
+            "date_from": "2020-02-20",
+            "date_until": null,
+            "bed_id" : 49
+        }
+    },
+    {
+        "model": "residence.bedprice",
+        "fields": {
+            "price": 16800,
+            "date_from": "2020-02-20",
+            "date_until": null,
+            "bed_id" : 50
+        }
+    }
+
+
+
+]

@@ -1,0 +1,175 @@
+[
+    
+        {
+            "model": "reservation.reservation",
+            "pk": 1,
+            "fields": {
+                "reservation_number": "4520E95BDE",
+                "date_from": "2021-03-12",
+                "date_until": "2021-07-05",
+                "status": 0,
+                "date_cancelled": null,
+                "date_finalized": null,
+                "observations": null,
+                "reject_reason": null,
+                "contract": "media/contracts/contract5.pdf",
+                "bed_id" : 1,
+                "student_id": 2               
+            }
+        },
+        {
+            "model": "reservation.reservation",
+            "pk": 2,
+            "fields": {
+                "reservation_number":  "B86811E74E",
+                "date_from": "2021-08-04",
+                "date_until": "2021-12-04",
+                "status": 3,
+                "date_cancelled": null,
+                "date_finalized": null,
+                "observations": null,
+                "reject_reason": null,
+                "contract": "media/contracts/contract1.pdf",
+                "bed_id" : 3,
+                "student_id": 2                
+            }
+        },
+        {
+            "model": "reservation.reservation",
+            "pk": 3,
+            "fields": {
+                "reservation_number": "D8C9F6A2A4",
+                "date_from": "2022-03-04",
+                "date_until": "2022-07-04",
+                "status": 3,
+                "date_cancelled": null,
+                "date_finalized": null,
+                "observations": null,
+                "reject_reason": null,
+                "contract": "media/contracts/contract2.pdf",
+                "bed_id" : 7,
+                "student_id": 2              
+            }
+        },
+        {
+            "model": "reservation.reservation",
+            "pk": 4,
+            "fields": {
+                "reservation_number": "78E67DC8BD",
+                "date_from": "2021-03-20",
+                "date_until": "2021-07-04",
+                "status": 0,
+                "date_cancelled": null,
+                "date_finalized": null,
+                "observations": null,
+                "reject_reason": null,
+                "contract": "media/contracts/contract3.pdf",
+                "bed_id" : 2,
+                "student_id": 1
+            }
+        },
+        {
+            "model": "reservation.reservation",
+            "pk": 5,
+            "fields": {
+                "reservation_number": "257FB8732F",
+                "date_from": "2021-03-20",
+                "date_until": "2021-07-04",
+                "status": 1,
+                "date_cancelled": null,
+                "date_finalized": null,
+                "observations": null,
+                "reject_reason": null,
+                "contract": "media/contracts/contract4.pdf",
+                "bed_id" : 8,
+                "student_id": 1
+            }
+        },
+        {
+            "model": "reservation.reservation",
+            "pk": 6,
+            "fields": {
+                "reservation_number": "90D6F3DA61",
+                "date_from": "2021-08-02",
+                "date_until": "2021-11-24",
+                "status": 3,
+                "date_cancelled": null,
+                "date_finalized": null,
+                "observations": null,
+                "reject_reason": null,
+                "contract": "media/contracts/contract6.pdf",
+                "bed_id" : 6,
+                "student_id": 1
+            }
+        },
+        {
+            "model": "reservation.reservation",
+            "pk": 7,
+            "fields": {
+                "reservation_number": "C755338D68",
+                "date_from": "2021-10-02",
+                "date_until": "2021-12-24",
+                "status": 2,
+                "date_cancelled": null,
+                "date_finalized": null,
+                "observations": null,
+                "reject_reason": null,
+                "contract": "media/contracts/contract6.pdf",
+                "bed_id" : 5,
+                "student_id": 1
+            }
+        },
+        {
+            "model": "reservation.reservation",
+            "pk": 8,
+            "fields": {
+                "reservation_number": "61E8316485",
+                "date_from": "2021-06-02",
+                "date_until": "2021-12-24",
+                "status": 1,
+                "date_cancelled": "2021-06-01",
+                "date_finalized": null,
+                "observations": null,
+                "reject_reason": null,
+                "contract": "media/contracts/contract6.pdf",
+                "bed_id" : 4,
+                "student_id": 2
+            }
+        },
+        {
+            "model": "reservation.reservation",
+            "pk": 9,
+            "fields": {
+                "reservation_number": "F66827A70E",
+                "date_from": "2021-01-02",
+                "date_until": "2021-07-24",
+                "status": 0,
+                "date_cancelled": null,
+                "date_finalized": null,
+                "observations": null,
+                "reject_reason": null,
+                "contract": "media/contracts/contract6.pdf",
+                "bed_id" : 12,
+                "student_id": 1
+            }
+        },
+        {
+            "model": "reservation.reservation",
+            "pk": 10,
+            "fields": {
+                "reservation_number": "E62B9A0D7E",
+                "date_from": "2021-02-02",
+                "date_until": "2021-08-24",
+                "status": 0,
+                "date_cancelled": null,
+                "date_finalized": null,
+                "observations": null,
+                "reject_reason": null,
+                "contract": "media/contracts/contract1.pdf",
+                "bed_id" : 13,
+                "student_id": 2    
+            }
+        }
+
+    
+]

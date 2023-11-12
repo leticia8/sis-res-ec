@@ -1,0 +1,503 @@
+[
+    {
+        "model": "residence.bed",
+        "pk": 1,
+        "fields": {
+            "name": "bed 1 cuarto 1 resi 1",
+            "status": 3,
+            "room_id": 1,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 2,
+        "fields": {
+            "name": "bed 2 cuarto 1 resi 1",
+            "status": 3,
+            "room_id": 1,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 3,
+        "fields": {
+            "name": "bed 3 cuarto 1 resi 1",
+            "status": 3,
+            "room_id": 1,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 4,
+        "fields": {
+            "name": "bed 4 cuarto 1 resi 1",
+            "status": 3,
+            "room_id": 1,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 5,
+        "fields": {
+            "name": "bed 1 cuarto 2 resi 1",
+            "status": 3,
+            "room_id": 2,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 6,
+        "fields": {
+            "name": "bed 2 cuarto 2 resi 1",
+            "status": 3,
+            "room_id": 2,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 7,
+        "fields": {
+            "name": "bed 3 cuarto 2 resi 1",
+            "status": 3,
+            "room_id": 2,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 8,
+        "fields": {
+            "name": "bed 4 cuarto 2 resi 1",
+            "status": 3,
+            "room_id": 2,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 9,
+        "fields": {
+            "name": "bed 1 cuarto 3 resi 1",
+            "status": 3,
+            "room_id": 3,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 10,
+        "fields": {
+            "name": "bed 2 cuarto 3 resi 1",
+            "status": 3,
+            "room_id": 3,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 11,
+        "fields": {
+            "name": "bed 3 cuarto 3 resi 1",
+            "status": 3,
+            "room_id": 3,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 12,
+        "fields": {
+            "name": "bed 1 cuarto 1 resi 2",
+            "status": 3,
+            "room_id": 4,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 13,
+        "fields": {
+            "name": "bed 2 cuarto 1 resi 2",
+            "status": 3,
+            "room_id": 4,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 14,
+        "fields": {
+            "name": "bed 3 cuarto 1 resi 2",
+            "status": 3,
+            "room_id": 4,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 15,
+        "fields": {
+            "name": "bed 4 cuarto 1 resi 2",
+            "status": 3,
+            "room_id": 4,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 16,
+        "fields": {
+            "name": "bed 5 cuarto 1 resi 2",
+            "status": 3,
+            "room_id": 4,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 17,
+        "fields": {
+            "name": "bed 1 cuarto 2 resi 2",
+            "status": 3,
+            "room_id": 5,
+            "type_id" : 5
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 18,
+        "fields": {
+            "name": "bed 1 cuarto 3 resi 2",
+            "status": 3,
+            "room_id": 6,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 19,
+        "fields": {
+            "name": "bed 2 cuarto 3 resi 2",
+            "status": 3,
+            "room_id": 6,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 20,
+        "fields": {
+            "name": "bed 1 cuarto 1 resi 3",
+            "status": 3,
+            "room_id": 7,
+            "type_id" : 4
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 21,
+        "fields": {
+            "name": "bed 1 cuarto 2 resi 3",
+            "status": 3,
+            "room_id": 8,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 22,
+        "fields": {
+            "name": "bed 2 cuarto 2 resi 3",
+            "status": 3,
+            "room_id": 8,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 23,
+        "fields": {
+            "name": "bed 3 cuarto 2 resi 3",
+            "status": 3,
+            "room_id": 8,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 24,
+        "fields": {
+            "name": "bed 1 cuarto 3 resi 3",
+            "status": 3,
+            "room_id": 9,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 25,
+        "fields": {
+            "name": "bed 2 cuarto 3 resi 3",
+            "status": 1,
+            "room_id": 9,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 26,
+        "fields": {
+            "name": "bed 1 cuarto 4 resi 3",
+            "status": 3,
+            "room_id": 10,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 27,
+        "fields": {
+            "name": "bed 1 cuarto 5 resi 3",
+            "status": 3,
+            "room_id": 11,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 28,
+        "fields": {
+            "name": "bed 2 cuarto 5 resi 3",
+            "status": 3,
+            "room_id": 11,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 29,
+        "fields": {
+            "name": "bed 3 cuarto 5 resi 3",
+            "status": 3,
+            "room_id": 11,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 30,
+        "fields": {
+            "name": "bed 4 cuarto 5 resi 3",
+            "status": 3,
+            "room_id": 11,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 31,
+        "fields": {
+            "name": "bed 1 cuarto 6 resi 3",
+            "status": 3,
+            "room_id": 12,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 32,
+        "fields": {
+            "name": "bed 2 cuarto 6 resi 3",
+            "status": 3,
+            "room_id": 12,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 33,
+        "fields": {
+            "name": "bed 3 cuarto 6 resi 3",
+            "status": 3,
+            "room_id": 12,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 34,
+        "fields": {
+            "name": "bed 4 cuarto 6 resi 3",
+            "status": 3,
+            "room_id": 12,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 35,
+        "fields": {
+            "name": "bed 5 cuarto 6 resi 3",
+            "status": 3,
+            "room_id": 12,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 36,
+        "fields": {
+            "name": "bed 6 cuarto 6 resi 3",
+            "status": 3,
+            "room_id": 12,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 37,
+        "fields": {
+            "name": "bed 7 cuarto 6 resi 3",
+            "status": 3,
+            "room_id": 12,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 38,
+        "fields": {
+            "name": "bed 8 cuarto 6 resi 3",
+            "status": 3,
+            "room_id": 12,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 39,
+        "fields": {
+            "name": "bed 9 cuarto 6 resi 3",
+            "status": 3,
+            "room_id": 12,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 40,
+        "fields": {
+            "name": "bed 1 cuarto 1 resi 4",
+            "status": 3,
+            "room_id": 13,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 41,
+        "fields": {
+            "name": "bed 2 cuarto 1 resi 4",
+            "status": 3,
+            "room_id": 13,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 42,
+        "fields": {
+            "name": "bed 1 cuarto 1 resi 5",
+            "status": 3,
+            "room_id": 14,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 43,
+        "fields": {
+            "name": "bed 2 cuarto 1 resi 5",
+            "status": 3,
+            "room_id": 14,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 44,
+        "fields": {
+            "name": "bed 1 cuarto 1 resi 6",
+            "status": 3,
+            "room_id": 15,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 45,
+        "fields": {
+            "name": "bed 2 cuarto 1 resi 6",
+            "status": 3,
+            "room_id": 15,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 46,
+        "fields": {
+            "name": "bed 1 cuarto 2 resi 6",
+            "status": 3,
+            "room_id": 16,
+            "type_id" : 1
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 47,
+        "fields": {
+            "name": "bed 2 cuarto 2 resi 6",
+            "status": 3,
+            "room_id": 16,
+            "type_id" : 2
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 48,
+        "fields": {
+            "name": "bed 3 cuarto 2 resi 6",
+            "status": 3,
+            "room_id": 16,
+            "type_id" : 3
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 49,
+        "fields": {
+            "name": "bed 1 cuarto 3 resi 6",
+            "status": 3,
+            "room_id": 17,
+            "type_id" : 5
+        }
+    },
+    {
+        "model": "residence.bed",
+        "pk": 50,
+        "fields": {
+            "name": "bed 1 cuarto 4 resi 6",
+            "status": 3,
+            "room_id": 18,
+            "type_id" : 4
+        }
+    }
+
+]   

@@ -1,0 +1,25 @@
+[
+{
+    "model": "student.tutor",
+    "fields": {
+        "name": "Sofía Martínez",
+        "relation": 1,
+        "cel": "09911111",
+        "address": "Los Girasoles 2021",
+        "data": "",
+        "student_id": 1
+    }
+},
+{
+    "model": "student.tutor",
+    "fields": {
+        "name": "Luca Prodan",
+        "relation": 2,
+        "cel": "09911111",
+        "address": "Gral Artigas 920",
+        "data": "",
+        "student_id": 2
+    }
+}
+
+]

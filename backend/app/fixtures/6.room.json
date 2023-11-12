@@ -1,0 +1,164 @@
+[
+
+     {
+        "model": "residence.room",
+        "pk": 1,
+        "fields": {
+            "name": "cuarto uno resi uno",
+            "residence_id": 1,
+            "amenity" : [5,6]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 2,
+        "fields": {
+            "name": "cuarto dos resi uno",
+            "residence_id": 1,
+            "amenity" : [5,7]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 3,
+        "fields": {
+            "name": "cuarto tres resi uno",
+            "residence_id": 1,
+            "amenity" : [5]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 4,
+        "fields": {
+            "name": "cuarto uno resi dos",
+            "residence_id": 2,
+            "amenity" : [6]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 5,
+        "fields": {
+            "name": "cuarto dos resi dos",
+            "residence_id": 2,
+            "amenity" : [7]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 6,
+        "fields": {
+            "name": "cuarto tres resi dos",
+            "residence_id": 2,
+            "amenity" : [5,6]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 7,
+        "fields": {
+            "name": "cuarto uno resi tres",
+            "residence_id": 3,
+            "amenity" : [5,7]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 8,
+        "fields": {
+            "name": "cuarto dos resi tres",
+            "residence_id": 3,
+            "amenity" : [5]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 9,
+        "fields": {
+            "name": "cuarto tres resi tres",
+            "residence_id": 3,
+            "amenity" : [6]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 10,
+        "fields": {
+            "name": "cuarto cuatro resi tres",
+            "residence_id": 3,
+            "amenity" : [7]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 11,
+        "fields": {
+            "name": "cuarto cinco resi tres",
+            "residence_id": 3,
+            "amenity" : [5,6,7]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 12,
+        "fields": {
+            "name": "cuarto seis resi tres",
+            "residence_id": 3,
+            "amenity" : [5,6,7]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 13,
+        "fields": {
+            "name": "cuarto uno resi cuatro",
+            "residence_id": 4,
+            "amenity" : [5]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 14,
+        "fields": {
+            "name": "cuarto uno resi cinco",
+            "residence_id": 5,
+            "amenity" : [6]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 15,
+        "fields": {
+            "name": "cuarto uno resi seis",
+            "residence_id": 6,
+            "amenity" : [6]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 16,
+        "fields": {
+            "name": "cuarto dos resi seis",
+            "residence_id": 6,
+            "amenity" : [7]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 17,
+        "fields": {
+            "name": "cuarto tres resi seis",
+            "residence_id": 6,
+            "amenity" : [7]
+        }
+    },
+    {
+        "model": "residence.room",
+        "pk": 18,
+        "fields": {
+            "name": "cuarto cuatro resi seis",
+            "residence_id": 6
+        }
+    }
+]

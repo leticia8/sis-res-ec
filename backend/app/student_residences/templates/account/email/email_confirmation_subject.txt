@@ -1,0 +1,4 @@
+{% load i18n %}
+{% autoescape off %}
+{% blocktrans %}Por favor confirma tu dirección de correo {% endblocktrans %}
+{% endautoescape %}

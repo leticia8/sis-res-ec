@@ -1,0 +1,404 @@
+[
+   
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del frente",
+            "photo": "media/residence/resi1.jpg",
+            "main": true,
+            "residence_id": 1,
+            "room_id": null
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del frente",
+            "photo": "media/residence/resi2.jpeg",
+            "main": true,
+            "residence_id": 2,
+            "room_id": null
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del frente",
+            "photo": "media/residence/resi3.jpg",
+            "main": true,
+            "residence_id": 3,
+            "room_id": null
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del frente",
+            "photo": "media/residence/resi4.jpeg",
+            "main": true,
+            "residence_id": 4,
+            "room_id": null
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del frente",
+            "photo": "media/residence/resi5.jpg",
+            "main": true,
+            "residence_id": 5,
+            "room_id": null
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del frente",
+            "photo": "media/residence/resi6.jpg",
+            "main": true,
+            "residence_id": 6,
+            "room_id": null
+        }
+    },
+    {
+        "model": "residence.photo",
+        "pk": 9,
+        "fields": {
+            "alt_text": "foto del cuarto 1 - frente",
+            "photo": "media/residence/room1.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 1
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 1 - costado dcho",
+            "photo": "media/residence/room1_2.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 1
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 1 - costado izq",
+            "photo": "media/residence/room1_3.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 1
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 1 - angular",
+            "photo": "media/residence/room1_4.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 1
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 2",
+            "photo": "media/residence/room2.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 2
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto 2 del cuarto 2",
+            "photo": "media/residence/room10.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 2
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 3",
+            "photo": "media/residence/room11.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 3
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto 2 del cuarto 3",
+            "photo": "media/residence/room12.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 3
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 4",
+            "photo": "media/residence/room13.jpeg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 4
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 4",
+            "photo": "media/residence/room14.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 4
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 4",
+            "photo": "media/residence/room15.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 4
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 5",
+            "photo": "media/residence/room16.jpeg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 5
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto2 del cuarto 5",
+            "photo": "media/residence/room17.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 5
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto3 del cuarto 5",
+            "photo": "media/residence/room18.png",
+            "main": false,
+            "residence_id": null,
+            "room_id": 5
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 6",
+            "photo": "media/residence/room19.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 6
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto2 del cuarto 6",
+            "photo": "media/residence/room2.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 6
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto3 del cuarto 6",
+            "photo": "media/residence/room20.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 6
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 7",
+            "photo": "media/residence/room21.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 7
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 7",
+            "photo": "media/residence/room22.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 7
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 7",
+            "photo": "media/residence/room23.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 7
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 8",
+            "photo": "media/residence/room24.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 8
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto2 del cuarto 8",
+            "photo": "media/residence/room25.jpeg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 8
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto3 del cuarto 8",
+            "photo": "media/residence/room26.jpeg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 8
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 9",
+            "photo": "media/residence/room27.jpeg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 9
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 9",
+            "photo": "media/residence/room28.jpeg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 9
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 9",
+            "photo": "media/residence/room29.jpeg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 9
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 10",
+            "photo": "media/residence/room3.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 10
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto2 del cuarto 10",
+            "photo": "media/residence/room4.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 10
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto3 del cuarto 10",
+            "photo": "media/residence/room5.jpeg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 10
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 11",
+            "photo": "media/residence/room6.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 11
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto2 del cuarto 11",
+            "photo": "media/residence/room7.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 11
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto3 del cuarto 11",
+            "photo": "media/residence/room8.jpeg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 11
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 12",
+            "photo": "media/residence/room9.jpg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 12
+        }
+    },
+    {
+        "model": "residence.photo",
+        "fields": {
+            "alt_text": "foto del cuarto 12",
+            "photo": "media/residence/room31.jpeg",
+            "main": false,
+            "residence_id": null,
+            "room_id": 12
+        }
+    }
+]

@@ -1,0 +1,39 @@
+version: "3.5"
+   
+services:
+  database:
+   image: kartoza/postgis:9.6-2.4
+   volumes:
+      - ./data/db:/var/lib/postgresql/data
+   environment:
+      - POSTGRES_USER=gisuser
+      - POSTGRES_DB=gis
+      - POSTGRES_PASS=POSTGRES_PASS
+   ports:
+   - "5432:5432"
+   
+  backend:
+     build: 
+      context: backend
+      dockerfile: Dockerfile
+     container_name: backend
+     command: bash -c "python manage.py migrate && python manage.py loaddata fixtures/* && python manage.py runserver 0.0.0.0:8000"
+     environment:
+       DATABASE_HOST: database
+       POSTGRES_USER: gisuser
+       POSTGRES_DB: gis
+       POSTGRES_PASS: POSTGRES_PASS
+       AWS_SECRET_ACCES_KEY: $$SECRET_ACCES_KEY
+       AWS_SECRET_ACCES_KEY_ID: $$ACCCES_KEY_ID
+       ENVIRONMENT: $$ENVIRONMENT
+       MAIL_USER: $$MAIL_USER
+       MAIL_KEY: $$MAIL_KEY
+       EMAIL_REGISTER: $$EMAIL_REGISTER
+       SECRET_KEY: $$SECRET_KEY
+     volumes:
+       - ./backend/app/:/src/app
+     ports:
+     - "8000:8000"
+     restart: on-failure
+     links:
+       - database

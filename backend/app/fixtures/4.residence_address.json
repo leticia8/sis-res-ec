@@ -1,0 +1,68 @@
+[
+    {
+    "model": "common.address",
+    "pk": 101,
+    "fields": {
+        "street": "PABLO DE MARIA",
+        "number": 1225,
+        "apartment": "2",
+        "location": "POINT(-56.171053744527825 -34.90541310799375)",
+        "zone": 4
+    }
+},
+{
+    "model": "common.address",
+    "pk": 102,
+    "fields": {
+        "street": "CANELONES",
+        "number": 2020,
+        "apartment": "2",
+        "location": "POINT(-56.17148138685682 -34.90719881049547)",
+        "zone": 4
+    }
+},
+{
+    "model": "common.address",
+    "pk": 103,
+    "fields": {
+        "street": "MIGUELETE",
+        "number": 1919,
+        "apartment": null,
+        "location": "POINT(-56.175840915813 -34.89271547922357)",
+        "zone": 48
+    }
+},
+{
+    "model": "common.address",
+    "pk": 104,
+    "fields": {
+        "street": "CONSTITUYENTE",
+        "number": 2145,
+        "apartment": null,
+        "location": "POINT(-56.1721545463764 -34.907623919222665)",
+        "zone": 4
+    }
+},
+{
+    "model": "common.address",
+    "pk": 105,
+    "fields": {
+        "street": "JUSTICIA",
+        "number": 2021,
+        "apartment": null,
+        "location": "POINT(-56.17893904637675 -34.892106477959516 )",
+        "zone": 48
+    }
+},
+{
+    "model": "common.address",
+    "pk": 106,
+    "fields": {
+        "street": "DR MANUEL ALBO",
+        "number": 2665,
+        "apartment": null,
+        "location": "POINT(-56.158883192131086 -34.891458397103484)",
+        "zone": 47
+    }
+}
+]

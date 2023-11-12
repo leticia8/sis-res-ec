@@ -1,0 +1,105 @@
+[
+{
+    "model": "student.student",
+    "pk": 1,
+    "fields": {
+        "document": "56788901",
+        "document_type": 1,
+        "image": "media/profiles/pe2.jpg",
+        "birth_date": "1998-11-12",
+        "cel": "09911111",
+        "medical_soc": "HOSPITAL EVANGÉLICO",
+        "allergies": "",
+        "department": 5,
+        "sex": 2,
+        "user":2     
+        
+    }
+},
+{
+    "model": "student.student",
+    "pk": 2,
+    "fields": {
+        "document": "51396804",
+        "document_type": 1,
+        "image": "media/profiles/camilo.png",
+        "birth_date": "2002-11-12",
+        "cel": "09911111",
+        "medical_soc": "ASSE",
+        "allergies": "",
+        "department": 7,
+        "sex": 1,
+        "user":3 
+       
+    }
+},
+{
+    "model": "student.student",
+    "pk": 3,
+    "fields": {
+        "document": "46942852",
+        "document_type": 1,
+        "image": "media/profiles/student3.jpeg",
+        "birth_date": "1999-07-22",
+        "cel": "099222222",
+        "medical_soc": "CÍRCULO CATÓLICO",
+        "allergies": "Alérgico a las abejas",
+        "department": 4,
+        "sex": 2,
+        "user": 10
+       
+    }
+},
+{
+    "model": "student.student",
+    "pk": 4,
+    "fields": {
+        "document": "46039207",
+        "document_type": 1,
+        "image": "media/profiles/student4.jpg",
+        "birth_date": "1998-05-12",
+        "cel": "0993333333",
+        "medical_soc": "CASMU",
+        "allergies": "",
+        "department": 5,
+        "sex": 1,
+        "user": 11
+       
+    }
+},
+{
+    "model": "student.student",
+    "pk": 5,
+    "fields": {
+        "document": "50052166",
+        "document_type": 1,
+        "image": "media/profiles/student5.jpeg",
+        "birth_date": "2002-09-12",
+        "cel": "099555555",
+        "medical_soc": "MÉDICA URUGUAYA",
+        "allergies": "Alérgica a la naranja",
+        "department": 10,
+        "sex": 2,
+        "user":12
+       
+    }
+},
+{
+    "model": "student.student",
+    "pk": 6,
+    "fields": {
+        "document": "PA2904034",
+        "document_type": 2,
+        "image": "media/profiles/student6.jpeg",
+        "birth_date": "2003-02-22",
+        "cel": "099666666",
+        "medical_soc": "",
+        "allergies": "",
+        "department": 1,
+        "sex": 2,
+        "user":13
+       
+    }
+}
+
+]

@@ -1,0 +1,484 @@
+[
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 12200,
+            "year_month": 202103,
+            "payment_date": "2021-03-06",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt1.pdf",
+            "payment_method_id": 2,
+            "reservation_id": 1
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 12200,
+            "year_month": 202104,
+            "payment_date": "2021-04-02",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt2.jpg",
+            "payment_method_id": 2,
+            "reservation_id": 1
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 12200,
+            "year_month": 202105,
+            "payment_date": "2021-05-09",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt3.jpg",
+            "payment_method_id": 1,
+            "reservation_id": 1
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 12200,
+            "year_month": 202106,
+            "payment_date": "2021-06-05",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt4.jpg",
+            "payment_method_id": 2,
+            "reservation_id": 1
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 13,
+            "amount": 1968,
+            "year_month": 202107,
+            "payment_date": "2021-07-08",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt5.jpg",
+            "payment_method_id": 1,
+            "reservation_id": 1
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 8710,
+            "year_month": 202108,
+            "payment_date": "2021-08-06",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt6.jpeg",
+            "payment_method_id": 2,
+            "reservation_id": 2
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 1,
+            "amount": 10000,
+            "year_month": 202109,
+            "payment_date": "2021-09-02",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt7.pdf",
+            "payment_method_id": 2,
+            "reservation_id": 2
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 2,
+            "amount": 10000,
+            "year_month": 202110,
+            "payment_date": "2021-09-30",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt8.jpg",
+            "payment_method_id": 2,
+            "reservation_id": 2
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 3871,
+            "year_month": 202003,
+            "payment_date": "2021-03-20",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt9.jpg",
+            "payment_method_id": 1,
+            "reservation_id": 4
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 20000,
+            "year_month": 202005,
+            "payment_date": "2021-05-20",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt10.png",
+            "payment_method_id": 1,
+            "reservation_id": 4
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 2,
+            "amount": 10000,
+            "year_month": 202006,
+            "payment_date": "2021-06-04",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt11.jpg",
+            "payment_method_id": 1,
+            "reservation_id": 4
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 1,
+            "amount": 10000,
+            "year_month": 202007,
+            "payment_date": "2021-07-04",
+            "observations": null,
+            "reject_reason": "No subió comprobante, nunca llegó el pago",
+            "date_status": null,
+            "file": null,
+            "payment_method_id": 1,
+            "reservation_id": 4
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 1,
+            "amount": 12384,
+            "year_month": 202008,
+            "payment_date": "2021-08-04",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt12.jpg",
+            "payment_method_id": 3,
+            "reservation_id": 6
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 2,
+            "amount": 12800,
+            "year_month": 202009,
+            "payment_date": "2021-09-14",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt13.jpg",
+            "payment_method_id": 3,
+            "reservation_id": 6
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 1,
+            "amount": 14600,
+            "year_month": 202001,
+            "payment_date": "2021-09-14",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt13.jpg",
+            "payment_method_id": 3,
+            "reservation_id": 9
+        }
+    },
+    {
+        "model": "reservation.payment",
+
+        "fields": {
+            "status": 3,
+            "amount": 14129,
+            "year_month": 202001,
+            "payment_date": "2021-09-14",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt13.jpg",
+            "payment_method_id": 3,
+            "reservation_id": 9
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 14600,
+            "year_month": 202002,
+            "payment_date": "2021-01-02",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt13.jpg",
+            "payment_method_id": 3,
+            "reservation_id": 9
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 14600,
+            "year_month": 202003,
+            "payment_date": "2021-03-07",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt13.jpg",
+            "payment_method_id": 3,
+            "reservation_id": 9
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 14600,
+            "year_month": 202004,
+            "payment_date": "2021-04-07",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt13.jpg",
+            "payment_method_id": 3,
+            "reservation_id": 9
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 1,
+            "amount": 14600,
+            "year_month": 202005,
+            "payment_date": "2021-05-01",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt13.jpg",
+            "payment_method_id": 3,
+            "reservation_id": 9
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 15268,
+            "year_month": 202005,
+            "payment_date": "2021-05-01",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt2.jpg",
+            "payment_method_id": 3,
+            "reservation_id": 9
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 15600,
+            "year_month": 202006,
+            "payment_date": "2021-06-04",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt3.jpg",
+            "payment_method_id": 3,
+            "reservation_id": 9
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 12077,
+            "year_month": 202007,
+            "payment_date": "2021-09-14",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt13.jpg",
+            "payment_method_id": 1,
+            "reservation_id": 9
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 1,
+            "amount": 11186,
+            "year_month": 202002,
+            "payment_date": "2021-02-05",
+            "observations": null,
+            "reject_reason": "Monto incorrecto, hubo ajuste",
+            "date_status": "2021-02-05",
+            "file": "media/payments/receipt4.jpg",
+            "payment_method_id": 1,
+            "reservation_id": 10
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 11614,
+            "year_month": 202002,
+            "payment_date": "2021-02-05",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt4.jpg",
+            "payment_method_id": 1,
+            "reservation_id": 10
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 13100,
+            "year_month": 202003,
+            "payment_date": "2021-03-05",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt4.jpg",
+            "payment_method_id": 2,
+            "reservation_id": 10
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 13100,
+            "year_month": 202004,
+            "payment_date": "2021-04-05",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt4.jpg",
+            "payment_method_id": 2,
+            "reservation_id": 10
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 13100,
+            "year_month": 202005,
+            "payment_date": "2021-05-05",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt4.jpg",
+            "payment_method_id": 2,
+            "reservation_id": 10
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 13100,
+            "year_month": 202006,
+            "payment_date": "2021-06-03",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt4.jpg",
+            "payment_method_id": 2,
+            "reservation_id": 10
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 13100,
+            "year_month": 202007,
+            "payment_date": "2021-07-02",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt4.jpg",
+            "payment_method_id": 2,
+            "reservation_id": 10
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 2,
+            "amount": 13100,
+            "year_month": 202008,
+            "payment_date": "2021-08-02",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt4.jpg",
+            "payment_method_id": 2,
+            "reservation_id": 10
+        }
+    },
+    {
+        "model": "reservation.payment",
+        "fields": {
+            "status": 3,
+            "amount": 10142,
+            "year_month": 202008,
+            "payment_date": "2021-08-02",
+            "observations": null,
+            "reject_reason": null,
+            "date_status": null,
+            "file": "media/payments/receipt4.jpg",
+            "payment_method_id": 2,
+            "reservation_id": 10
+        }
+    }
+
+]

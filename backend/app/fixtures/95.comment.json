@@ -1,0 +1,95 @@
+[
+   
+    {
+        "model": "reservation.comment",
+        "pk": 1,
+        "fields": {
+            "score": 4,
+            "review": "Buenísima experiencia",
+            "date_created": "2021-07-31T00:00:00",
+            "status": 3,
+            "reject_reason": null,
+            "date_rejected" :null,
+            "reservation_id": 1
+        }
+    },
+    {
+        "model": "reservation.comment",
+        "pk": 2,
+        "fields": {
+            "score": 1,
+            "review": "Mala experiencia no recomiendo",
+            "date_created": "2021-12-11T00:00:00",
+            "status": 1,
+            "reject_reason": "La persona no se hospedó aquí",
+            "date_rejected" : "2021-03-02",
+            "reservation_id": 5
+        }
+    },
+    {
+        "model": "reservation.comment",
+        "pk": 3,
+        "fields": {
+            "score": 3,
+            "review": "Está bien. Buena relación calidad precio",
+            "date_created": "2021-04-01T04:00:00",
+            "status": 3,
+            "reject_reason": null,
+            "date_rejected" : null,
+            "reservation_id": 4
+        }
+    },
+    {
+        "model": "reservation.comment",
+        "pk": 4,
+        "fields": {
+            "score": 5,
+            "review": "Muy buena experiencia! Recomiendo!",
+            "date_created": "2021-09-26T04:00:00",
+            "status": 3,
+            "reject_reason": null,
+            "date_rejected" : null,
+            "reservation_id": 6
+        }
+    },
+    {
+        "model": "reservation.comment",
+        "pk": 5,
+        "fields": {
+            "score": 3,
+            "review": "Cancelé porque las clases no volvieron presencial, pero la próxima vuelvo a elegir esta residencia.",
+            "date_created": "2021-06-01T00:04:00",
+            "status": 3,
+            "reject_reason": null,
+            "date_rejected" : null,
+            "reservation_id": 8
+        }
+    },
+    {
+        "model": "reservation.comment",
+        "pk": 6,
+        "fields": {
+            "score": 3,
+            "review": "Está bien. Buena relación calidad precio",
+            "date_created": "2021-08-04T00:00:00",
+            "status": 3,
+            "reject_reason": null,
+            "date_rejected" : null,
+            "reservation_id": 9
+        }
+    },
+    {
+        "model": "reservation.comment",
+        "pk": 7,
+        "fields": {
+            "score": 3,
+            "review": "Está bien. Buena relación calidad precio",
+            "date_created": "2021-08-04T03:00:00",
+            "status": 3,
+            "reject_reason": null,
+            "date_rejected" : null,
+            "reservation_id": 10
+        }
+    }
+
+]

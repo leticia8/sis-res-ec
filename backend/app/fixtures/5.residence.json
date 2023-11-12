@@ -1,0 +1,117 @@
+[
+
+    {
+        "model": "residence.residence",
+        "pk": 1,
+        "fields": {
+            "name": "Unala Residencia",
+            "bussines_name": "ZZACALA",
+            "rut": "21222454768876",
+            "description": "Esta es la residencia que estás buscando!",
+            "tel": "29023454",
+            "mail": "leticialado@gmail.com",
+            "facebook":"https://www.facebook.com/",
+            "instagram":"https://www.instagram.com/",
+            "address_id": 101,
+            "manager_id": 1,
+            "type_id": 1,
+            "amenity": [1,3,4,8],
+            "payment_method" : [1,2,3,4,5,6]
+        }
+    },
+    {
+        "model": "residence.residence",
+        "pk": 2,
+        "fields": {
+            "name": "Vintage Residence",
+            "bussines_name": "SOPORTS",
+            "rut": "2222222222222",
+            "description": "En SOPORTS vas a encontrar la comodidad y buen ambiente que buscas!",
+            "tel": "222222222",
+            "mail": "soports@gmail.com",
+            "facebook":"https://www.facebook.com/",
+            "instagram":"https://www.instagram.com/",
+            "address_id": 102,
+            "manager_id": 5,
+            "type_id": 2,
+            "amenity": [1,3,4,8,9,10,11,12],
+            "payment_method" : [1,2,3]
+        }
+    },
+    {
+        "model": "residence.residence",
+        "pk": 3,
+        "fields": {
+            "name": "Kelo Cura",
+            "bussines_name": "Meme Corp.",
+            "rut": "123123123",
+            "description": "MemeCorp fue fundada por F. Scocozza en 1492!",
+            "tel": "5555555",
+            "mail": "leticialado@hotmail.com",
+            "facebook":"https://www.facebook.com/",
+            "instagram":"https://www.instagram.com/",
+            "address_id": 103,
+            "manager_id": 2,
+            "type_id": 1,
+            "amenity": [1,2,3,8,9,10],
+            "payment_method" : [1,2,3,4]
+        }
+    },
+    {
+        "model": "residence.residence",
+        "pk": 4,
+        "fields": {
+            "name": "El Viejo Oeste",
+            "bussines_name": "Clint S.A.",
+            "rut": "343123321123",
+            "description": "Veni a nuestra residencia ubicada en el pueblo fantasma de buuuu city",
+            "tel": "12398764",
+            "mail": "bu@ghost.net",
+            "facebook":"https://www.facebook.com/",
+            "instagram":"https://www.instagram.com/",
+            "address_id": 104,
+            "manager_id": 6,
+            "type_id": 1,
+            "amenity": [1,2,3,9,12],
+            "payment_method" : [1,2,5,6]
+        }
+    },
+    {
+        "model": "residence.residence",
+        "pk": 5,
+        "fields": {
+            "name": "La Favorita",
+            "bussines_name": "Favorita S.A.",
+            "rut": "343123321123",
+            "description": "Residencia tranquila, sólo para eestudiantes",
+            "tel": "12398764",
+            "mail": "bu@ghost.net",
+            "facebook":"https://www.facebook.com/",
+            "instagram":"https://www.instagram.com/",
+            "address_id": 105,
+            "manager_id": 7,
+            "type_id": 2,
+            "amenity": [1,3,4,8,9,10,11,12],
+            "payment_method" : [1,3,6]
+        }
+    },
+    {
+        "model": "residence.residence",
+        "pk": 6,
+        "fields": {
+            "name": "Desiguales",
+            "bussines_name": "Desiguales S.A.",
+            "rut": "2123243543",
+            "description": "Residencia familiar y con buen ambiente",
+            "tel": "12398764",
+            "mail": "unmailextranio@dominio.uy",
+            "facebook":"https://www.facebook.com/",
+            "instagram":"https://www.instagram.com/",
+            "address_id": 106,
+            "manager_id": 9,
+            "type_id": 3,
+            "amenity": [1,3,4,7,11],
+            "payment_method" : [1,2,5,6]
+        }
+    }
+]

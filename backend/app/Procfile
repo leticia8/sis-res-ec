@@ -1,0 +1,2 @@
+web: gunicorn student_residences.wsgi --log-file -
+clock: python clock.py

@@ -1,0 +1,6 @@
+db_password.txt
+env_residenza/**
+*.pyc
+.env
+docker-compose.override.yaml
+backend/app/myenv/**
