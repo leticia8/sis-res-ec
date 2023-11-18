@@ -9,7 +9,7 @@ services:
    environment:
       - POSTGRES_USER=gisuser
       - POSTGRES_DB=gis
-      - POSTGRES_PASS=POSTGRES_PASS
+      - POSTGRES_PASS
    ports:
    - "5432:5432"
    
@@ -20,11 +20,12 @@ services:
      container_name: backend
      command: bash -c "python manage.py migrate && python manage.py loaddata fixtures/* && python manage.py runserver 0.0.0.0:8000"
      environment:
-       DATABASE_HOST: database
-       POSTGRES_USER: gisuser
-       POSTGRES_DB: gis
-       POSTGRES_PASS: POSTGRES_PASS
-       SECRET_KEY: $$SECRET_KEY
+       - DATABASE_HOST=database
+       - POSTGRES_USER=gisuser
+       - POSTGRES_DB=gis
+       - POSTGRES_PASS
+       - SECRET_KEY
+       - MAIL_USER
      volumes:
        - ./backend/app/:/src/app
      ports:
